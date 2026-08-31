@@ -6,7 +6,7 @@ Serie de laboratorios de diseño e implementación de redes en Cisco Packet Trac
 
 | # | Laboratorio | Temas clave | Detalle |
 |---|---|---|---|
-| 01 | Red híbrida cobre + fibra + WiFi | DHCP dual-pool, WPA2, troubleshooting de capa física | [Ver →](../../wiki/Lab-02-Cobre-Fibra-WiFi) |
+| 01 | Red híbrida cobre + fibra + WiFi | DHCP dual-pool, WPA2, troubleshooting de capa física | [Ver →](https://github.com/jorgeraulEC/REDES_labs/wiki/Lab-2) |
 | 02 | *(pendiente)* | | |
 | 03 | *(pendiente)* | | |
 | 04 | *(pendiente)* | | |
